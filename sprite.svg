@@ -1,0 +1,14 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <symbol viewBox="0 0 48 48" id="icon-circle">
+    <title>circle</title>
+    <circle cx="24" cy="24" r="24" />
+  </symbol>
+  <symbol viewBox="0 0 48 48" id="icon-square">
+    <title>square</title>
+    <rect width="48" height="48" x="0" y="0" />
+  </symbol>
+  <symbol viewBox="0 0 48 48" id="icon-triangle">
+    <title>triangle</title>
+    <polygon points="24 0 48 48 0 48" />
+  </symbol>
+</svg>
