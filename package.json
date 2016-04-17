@@ -1,0 +1,25 @@
+{
+  "name": "svg-iconset-skeleton",
+  "version": "1.0.0",
+  "description": "An empty skeleton for easily make a theme of SVG icons",
+  "main": "sprite.svg",
+  "scripts": {
+    "build": "./node_modules/.bin/grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuzonp/svg-iconset-skeleton.git"
+  },
+  "author": "Thomas Girard <hello@thomasgirard.fr> (http://www.thomasgirard.fr/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuzonp/svg-iconset-skeleton/issues"
+  },
+  "homepage": "https://github.com/vuzonp/svg-iconset-skeleton#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-svgmin": "^3.2.0",
+    "grunt-svgstore": "^1.0.0"
+  }
+}
