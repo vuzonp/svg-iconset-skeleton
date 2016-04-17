@@ -4,6 +4,7 @@
   "description": "An empty skeleton for easily make a theme of SVG icons",
   "main": "sprite.svg",
   "scripts": {
+    "clean": "./node_modules/.bin/grunt clean",
     "build": "./node_modules/.bin/grunt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

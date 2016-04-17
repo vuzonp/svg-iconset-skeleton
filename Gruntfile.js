@@ -59,6 +59,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-svgstore');
 
   // Default task(s).
+  grunt.registerTask('clean', ["svgmin"]);
   grunt.registerTask('default', ["svgmin", "svgstore"]);
 
 };
